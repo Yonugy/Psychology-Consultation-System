@@ -1,0 +1,9 @@
+Appointment ID, Consultation Slot ID, Student ID, Status
+1, 1, 4, Confirmed
+2, 2, 4, Pending
+3, 3, 5, Cancelled
+4, 4, 5, Confirmed
+6, 6, 4, Pending
+7, 7, 5, Missed
+8, 8, 4, Confirmed
+9, 5, , Confirmed

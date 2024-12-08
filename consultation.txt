@@ -1,0 +1,12 @@
+Consultation Slot ID, Lecturer ID, Student ID, Date, Time, Duration (min), Lecturer Feedback, Student Feedback, Status
+1, 6, 4, 2024-11-20, 09:00, 60, -, -, Rescheduling
+2, 6, 4, 2024-1-1, 08:00, 60, not bad, -, Completed
+3, 6, 5, 2024-11-21, 14:00, 60, -, -, Canceled
+4, 6, 5, 2024-11-22, 10:00, 60, -, -, Completed
+5, 6, 4, 2024-1-1, 08:00, 60, -, -, Rescheduling
+6, 6, 4, 2024-11-24, 15:00, 60, Excellent session, bad, Completed
+7, 6, -, 2024-11-23, 14:00, 60, -, -, Scheduled
+8, 6, 4, 2024-7-6, 08:00, 15, a, -, Completed
+9, 6, -, 2024-1-1, 08:00, 15, -, -, Canceled
+10, 6, -, 2024-1-7, 08:00, 15, -, -, Canceled
+11, 6, -, 2024-1-1, 08:00, 15, -, -, Canceled

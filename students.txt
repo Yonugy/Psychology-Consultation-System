@@ -1,0 +1,7 @@
+Student ID, Username, Full Name, Password, Email, Phone Number
+yongwai,Yong Wai, chongyongwai, Admin, yongwai@gmail.com, 01178317444
+yingyi, Ying Yi, chanyingyi, Staff, yingyi@gmail.com, 0175201314
+benjamin, Benjamin, benjaminsoon, Staff, benjamin@gmail.com, 0187520478
+asda, a, adsd, Student, asdasd, asdasd
+q, q, q, Student, q, q
+, , 12345678, Student, , 

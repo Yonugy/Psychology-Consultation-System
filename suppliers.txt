@@ -1,0 +1,5 @@
+Supplier Code, Supplier Name, Supplier Address, Supplier Contact Number
+S01, Elshaddai, Canaan Care, 01111328172
+S02, Refugee, APU, 0126608066
+S03, Chagee, Malaysia, 0103613131
+S04, TMT, Cheras, 0321061632

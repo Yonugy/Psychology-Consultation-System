@@ -1,0 +1,7 @@
+User ID, Username, Name, Password, User Type, Email, Phone Number
+U00001, yongwai,Yong Wai, chongyongwai, Lecturer, yongwai@gmail.com, 01178317444
+U00002, yingyi, Ying Yi, chanyingyi, Lecturer, yingyi@gmail.com, 0175201314
+U00003, benjamin, Benjamin, benjaminsoon, Lecturer, benjamin@gmail.com, 0187520478
+U00004, asda, a, adsd, Student, asdasd, asdasd
+U00005, q, q, q, Student, q, q
+U00006, a, a, a, Lecturer, a, a

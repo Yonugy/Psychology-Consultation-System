@@ -1,0 +1,7 @@
+Item Code, Supplier Code, Quantity in Stock (boxes)
+HC, S01, 35
+FS, S02, 20
+MS, S03, 100
+GL, S04, 100
+GW, S01, 100
+SC, S02, 112
