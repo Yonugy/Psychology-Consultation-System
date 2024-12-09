@@ -1,5 +1,0 @@
-Hospital Code, Hospital Name, Hospital Address, Hospital Contact Number
-H01, Esplanad, Jalan Esplanad, 01111110411
-H02, Dynasty, Jalan Dynasty, 01136770427
-H03, Satellite, Jalan Satellite, 0129605028
-H04, OUG, Jalan OUG, 01921141663
